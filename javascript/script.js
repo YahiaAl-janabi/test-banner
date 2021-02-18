@@ -3,7 +3,6 @@ var option2 = document.getElementById("option2");
 var container1 = document.getElementById("container");
 var container2 = document.getElementById("container2");
 var container3 = document.getElementById("container3");
-var body = document.querySelector("body");
 
 function display2() {
   container2.style.display = "block";
